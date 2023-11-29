@@ -1,3 +1,5 @@
-python
-
-
+streamlit 
+pandas 
+requests
+pickle
+nltk
